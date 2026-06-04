@@ -1,4 +1,4 @@
-# 🤖 Chatbot da Comissão de Estágio
+# Chatbot da Comissão de Estágio
 
 Bot para Telegram desenvolvido em Python que automatiza a análise de elegibilidade para estágio de alunos de Ciência da Computação da UFRJ.
 
@@ -6,7 +6,7 @@ O sistema recebe o DRE do aluno, analisa seu BOA (Boletim de Orientação Acadê
 
 ---
 
-## 🎯 Problema
+## Problema
 
 Tradicionalmente, a verificação da aptidão para estágio exige análise manual do histórico acadêmico do aluno por professores que não têm essa como sua função principal, o que gera um longo período de espera por autorizações pelos estudantes de Ciência da Computação da UFRJ.
 
@@ -14,7 +14,7 @@ Este projeto automatiza esse processo por meio de um chatbot acessível pelo Tel
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 ### Verificação de Elegibilidade
 
@@ -55,7 +55,7 @@ Após o envio:
 
 ---
 
-## 🏗 Arquitetura
+## Arquitetura
 
 ```text
 Aluno
@@ -91,7 +91,7 @@ Entrega ao aluno
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ### Backend
 
@@ -119,7 +119,7 @@ Entrega ao aluno
 
 ---
 
-## 📄 Geração de Documentos
+## Geração de Documentos
 
 O sistema gera automaticamente um parecer oficial contendo:
 
@@ -131,7 +131,7 @@ O sistema gera automaticamente um parecer oficial contendo:
 
 ---
 
-## 📊 Critérios de Aprovação
+## Critérios de Aprovação
 
 Um aluno é considerado apto para estagiar quando:
 
@@ -149,7 +149,7 @@ Disciplinas ainda cursando ou pendentes impedem a autorização.
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Clone o repositório
 
@@ -180,7 +180,7 @@ python bot_cc_refatorado.py
 
 ---
 
-## 📚 Conceitos Aplicados
+## Conceitos Aplicados
 
 Durante o desenvolvimento deste projeto foram utilizados:
 
@@ -194,7 +194,7 @@ Durante o desenvolvimento deste projeto foram utilizados:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Vitor Nunes
 
